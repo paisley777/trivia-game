@@ -1,0 +1,68 @@
+/* general styles */
+
+body {
+	font-size: 16px;
+}
+
+input[type="radio"] {
+  margin: 5px 2px 5px 20px;
+}
+
+.body-container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.button {
+    display: block;
+    font-size: 24px;
+    margin: 16px auto;
+    padding: 5px;
+}
+
+
+/* styles for text */
+
+.bold-text {
+	font-weight: bold;
+}
+
+.center{
+	text-align: center;
+}
+
+.red-text {
+	color: red;
+}
+
+.title-text {
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+}
+
+
+/* div styles */
+
+.answer {
+	margin-left: 12px;
+}
+
+.question {
+	margin-bottom: 24px;
+}
+
+
+/* image styles */
+
+.fallingwater {
+	width: 960px;
+}
+
+
+
+
+
+
+
+
